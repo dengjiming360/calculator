@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="__local_aars__:D.\MyApplication\app\libs\caculator.jar:unspecified@jar">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/app/libs/caculator.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
